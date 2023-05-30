@@ -1,0 +1,554 @@
+{
+  "hotels": [
+    {
+      "id":1,
+      "name": "THE OBEROI UDAIVILAS",
+      "neighborhood": "Udaipur",
+      "photograph": "https://i.postimg.cc/WpG304dQ/oberoi-mainimg.jpg",
+      "address": "Badi-Gorela-Mulla Talai Rd,Pichola,Udaipur,Rajasthan",
+      "phone":9037367383,
+      "description":"Experience a perfect resort villa stay here at The Oberoi Udaivilas Udaipur Hotel. Conveniently situated in the Lake City part of Udaipur, this property puts you close to attractions and interesting dining options. Don't leave before paying a visit to the famous City Palace of Udaipur.Rated with 5 stars, this high-quality property provides guests with access to massage, restaurant and fitness center on-site.",
+      "amenities":{"first":"Airport transfer",
+      "sec":"Valet parking",
+      "thi":"swimming pools[Outside]",
+      "fou":"Free Wifi",
+      "fiv":"Fitness center",
+      "six":"Shuttle service"
+      },
+      "latlng": {
+        "lat": 40.713829,
+        "lng": -73.989667
+      },
+      "room_types":{
+        "r1":"Premier Rooms : 42 square meter",
+        "r2":"Premier Rooms with Balcony : 65 square meter",
+        "r3":"Deluxe Suites : 75 square meter",
+        "r4":"Deluxe Suites with Balcony : 92 square meter",
+        "r5":"Luxury Suites : 185 square meter"
+      },
+      "attractions": {
+        "a1": "Bagore ki Haveli Meseum : 1.0 Km",
+        "a2": "Sajjangarh Monsoon Palace : 1.1 Km",
+        "a3": "City Palace of Udaipur : 1.2 Km",
+        "a4": "Jagdish Temple : 1.3 Km",
+        "a5": "Jagmandir : 1.3 Km",
+        "a6": "Arsi Vikas : 390 m"
+      },
+      "reviews": [
+        {
+          "name": "Ashok",
+          "date": "October 26, 2022",
+          "rating": 4.6,
+          "comments": "The best....Udaivillas is an experience. You can't stop praising . The staff are so polite and helpful and always at their humble service . Aman , Ruturaj, Ishan, Jerin, Athi, Swapna , Rishabh, Harsh. Take the name and they are all so helpful. We were nostalgic on leaving the hotel and their hospitality . The food was mouth watering . Every nook of the hotel was clean. Not a single speck of dust could be found . Udaivillas is my recommendation forever now"
+        },
+        {
+          "name": "Sonali",
+          "date": "November 02, 2022",
+          "rating": 5.0,
+          "comments": "You get yours money's worth while staying in the Oberoi Udaivilas considering the size of the properties, the attention to details and the nature included within and surrounding the property."
+        },
+        {
+          "name": "David",
+          "date": "January 10, 2022",
+          "rating": 5,
+          "comments": "This is one of the best hotels I've ever seen ! Fantastic ambience, beautiful garden, high quality interior and exterior design, the food is excellent, the night illumination creates a magic atmosphere, fascinating “jeux d’eau” everywhere And the room with semi-private swimming pool, with view on the lake and the Udaipur palaces is really fantastic"
+        }
+      ]
+    },
+    {
+      "id":2,
+      "name": "LAKE PICHOLA HOTEL",
+      "neighborhood": "Udaipur",
+      "photograph": "https://i.postimg.cc/rw8Fqynw/lakepichola.jpg",
+      "address": "Outside chand pole,Lake City,Udaipur",
+      "phone":7037367383,
+      "description":"The car parking and the Wi-Fi are always free, so you can stay in touch and come and go as you please. Strategically situated in Lake City, allowing you access and proximity to local attractions and sights. Don't leave before paying a visit to the famous City Palace of Udaipur. ",
+      "amenities":{"first":"Airport transfer",
+      "sec":"Valet parking",
+      "thi":"Bicycle rental",
+      "fou":"Free Wifi",
+      "fiv":"Spa",
+      "six":"Shuttle service"
+      },
+      "latlng": {
+        "lat": 40.713829,
+        "lng": -73.989667
+      },
+      "room_types":{
+        "r1":"Grande Heritage Garden View Room: 44 square meter",
+        "r2":"Grand Heritage Garden View Room: 44 square meter",
+        "r3":"Grande Heritage Lake View: 44 square meter",
+        "r4":"Grande Heritage Lake View with Balcony: 44 square meter",
+        "r5":"Royal Suite: 176 square meter"
+      },
+      "attractions": {
+        "a1": "Bagore ki Haveli Meseum : 550 M",
+        "a2": "Sajjangarh Monsoon Palace : 680 M",
+        "a3": "City Palace of Udaipur : 700M",
+        "a4": "Jagdish Temple : 1.3 Km",
+        "a5": "Jagmandir : 1.3 Km",
+        "a6": "Arsi Vikas : 390 m"
+      },
+      "reviews": [
+        {
+          "name": "Simran",
+          "date": "October 26, 2022",
+          "rating": 5.0,
+          "comments": "Lake Pichola is an unexpectedly excellent Hotel, Located on the Lake with an amazing view, Rooms were very big and Spacious, Hotel Location is right in the old streets of Udaipur which has lot of Shopping and some amazing Restaurants. Rooftop Restaurant in the hotel called UPRE is one of the best eating joints in Udaipur. We will surely book Lake Pichola again for our next Trip."
+        },
+        {
+          "name": "Vishnu",
+          "date": "march 12 2019",
+          "rating": 4.5,
+          "comments": "This was one of the most memorable trips mostly due to the hotel stay and the beautiful location of this haveli. Everything around the hotel showcases so much history and rich culture. Would definitely recommend this to friends and family."
+        },
+        {
+          "name": "Salim",
+          "date": "April 20, 2022",
+          "rating": 4.3,
+          "comments": "I stayed there for 2 nights and it was worth it. We enjoyed alot and everything was as described. Also staff was very nice and helpful."
+        }
+      ]
+    },
+    {
+      "id":3,
+      "name": "THE LEELA PALACE",
+      "neighborhood": "Udaipur",
+      "photograph": "https://i.postimg.cc/jdyLC77k/leela.jpg",
+      "address": "Lake Pichola, PO Box 125, Lake City, Udaipur",
+      "phone":9037988773,
+      "description":"Conveniently situated in the Lake City part of Udaipur, this property puts you close to attractions and interesting dining options. Don't leave before paying a visit to the famous City Palace of Udaipur. Rated with 5 stars, this high-quality property provides guests with access to restaurant, fitness center and spa on-site.",
+      "amenities":{"first":"Airport transfer",
+      "sec":"BBQ facilities",
+      "thi":"swimming pool",
+      "fou":"Free Wifi",
+      "fiv":"Front desk [24-hour]",
+      "six":"Fitness center"
+      },
+      "latlng": {
+        "lat": 40.713829,
+        "lng": -73.989667
+      },
+      "room_types":{
+        "r1":"Premier Rooms : 42 square meter",
+        "r2":"Premier Rooms with Balcony : 65 square meter",
+        "r3":"Deluxe Suites : 75 square meter",
+        "r4":"Deluxe Suites with Balcony : 92 square meter",
+        "r5":"Luxury Suites : 185 square meter"
+      },
+      "attractions": {
+        "a1": "Bagore ki Haveli Meseum : 1.0 Km",
+        "a2": "Sajjangarh Monsoon Palace : 1.1 Km",
+        "a3": "City Palace of Udaipur : 1.2 Km",
+        "a4": "Jagdish Temple : 1.3 Km",
+        "a5": "Jagmandir : 1.3 Km",
+        "a6": "Arsi Vikas : 390 m"
+      },
+      "reviews": [
+        {
+          "name": "Deepthi",
+          "date": "October 26, 2022",
+          "rating": 4.6,
+          "comments": "Excellent location & vell maintained hote very comfortable stay made memorable by the hospitality l very good food specially lavish breakfast and Very co-operative staff celebrated birthday and received a wonderful gesture from the staff well maintained garden"
+        },
+        {
+          "name": "Sonali",
+          "date": "November 02, 2022",
+          "rating": 5.0,
+          "comments": "You get yours money's worth while staying in the Oberoi Udaivilas considering the size of the properties, the attention to details and the nature included within and surrounding the property."
+        },
+        {
+          "name": "David",
+          "date": "January 10, 2022",
+          "rating": 5,
+          "comments": "This is one of the best hotels I've ever seen ! Fantastic ambience, beautiful garden, high quality interior and exterior design, the food is excellent, the night illumination creates a magic atmosphere, fascinating “jeux d’eau” everywhere And the room with semi-private swimming pool, with view on the lake and the Udaipur palaces is really fantastic"
+        }
+      ]
+    },
+    {
+      "id":4,
+      "name": "TRIDENT HOTEL",
+      "neighborhood": "Udaipur",
+      "photograph": "https://i.postimg.cc/BQJjzCbc/trident.jpg",
+      "address": "Haridasjiki Magri Mullah Talai, Lake City, Udaipur",
+      "phone":9037367383,
+      "description":"Conveniently situated in the Lake City part of Udaipur, this property puts you close to attractions and interesting dining options. Don't leave before paying a visit to the famous City Palace of Udaipur. ",
+      "amenities":{"first":"Airport transfer",
+      "sec":"Valet parking",
+      "thi":"swimming pools[Outside]",
+      "fou":"Free Wifi",
+      "fiv":"Fitness center",
+      "six":"Check-in/out [express]"
+      },
+      "latlng": {
+        "lat": 40.713829,
+        "lng": -73.989667
+      },
+      "room_types":{
+        "r1":"Premier Rooms : 42 square meter",
+        "r2":"Premier Rooms with Balcony : 65 square meter",
+        "r3":"Deluxe Suites : 75 square meter",
+        "r4":"Deluxe Suites with Balcony : 92 square meter",
+        "r5":"Luxury Suites : 185 square meter"
+      },
+      "attractions": {
+        "a1": "Bagore ki Haveli Meseum : 1.0 Km",
+        "a2": "Sajjangarh Monsoon Palace : 1.1 Km",
+        "a3": "City Palace of Udaipur : 1.2 Km",
+        "a4": "Jagdish Temple : 1.3 Km",
+        "a5": "Jagmandir : 1.3 Km",
+        "a6": "Arsi Vikas : 390 m"
+      },
+      "reviews": [
+        {
+          "name": "Ashok",
+          "date": "October 26, 2022",
+          "rating": 4.6,
+          "comments": "The best....Udaivillas is an experience. You cant stop praising . The staff are so polite and helpful and always at their humble service . Aman , Ruturaj, Ishan, Jerin, Athi, Swapna , Rishabh, Harsh. Take the name and they are all so helpful. We were nostalgic on leaving the hotel and their hospitality . The food was mouth watering . Every nook of the hotel was clean. Not a single speck of dust could be found . Udaivillas is my recommendation forever now"
+        },
+        {
+          "name": "Sonali",
+          "date": "November 02, 2022",
+          "rating": 5.0,
+          "comments": "You get yours money's worth while staying in the Oberoi Udaivilas considering the size of the properties, the attention to details and the nature included within and surrounding the property."
+        },
+        {
+          "name": "David",
+          "date": "January 10, 2022",
+          "rating": 5,
+          "comments": "This is one of the best hotels I've ever seen ! Fantastic ambience, beautiful garden, high quality interior and exterior design, the food is excellent, the night illumination creates a magic atmosphere, fascinating “jeux d’eau” everywhere And the room with semi-private swimming pool, with view on the lake and the Udaipur palaces is really fantastic"
+        }
+      ]
+    },
+    {
+      "id":5,
+      "name": "UMAID BHAWAN",
+      "neighborhood": "Udaipur",
+      "photograph": "https://i.postimg.cc/k5zKStn6/umaid.jpg",
+      "address": "D1-2A,Behind Collectorate, (Via) Bank Road, Bani Park, Bani Park, Jaipur",
+      "phone":9037367383,
+      "description":"The car parking and the Wi-Fi are always free, so you can stay in touch and come and go as you please. Strategically situated in Bani Park, allowing you access and proximity to local attractions and sights. Don't leave before paying a visit to the famous Amber Fort.",
+      "amenities":{"first":"Airport transfer",
+      "sec":"Valet parking",
+      "thi":"swimming pools[Outside]",
+      "fou":"Free Wifi",
+      "fiv":"Fitness center",
+      "six":"Shuttle service"
+      },
+      "latlng": {
+        "lat": 40.713829,
+        "lng": -73.989667
+      },
+      "room_types":{
+        "r1":"Premier Rooms : 42 square meter",
+        "r2":"Premier Rooms with Balcony : 65 square meter",
+        "r3":"Deluxe Suites : 75 square meter",
+        "r4":"Deluxe Suites with Balcony : 92 square meter",
+        "r5":"Luxury Suites : 185 square meter"
+      },
+      "attractions": {
+        "a1": "Bagore ki Haveli Meseum : 1.0 Km",
+        "a2": "Sajjangarh Monsoon Palace : 1.1 Km",
+        "a3": "City Palace of Udaipur : 1.2 Km",
+        "a4": "Jagdish Temple : 1.3 Km",
+        "a5": "Jagmandir : 1.3 Km",
+        "a6": "Arsi Vikas : 390 m"
+      },
+      "reviews": [
+        {
+          "name": "Ashok",
+          "date": "October 26, 2022",
+          "rating": 4.6,
+          "comments": "The best....Udaivillas is an experience. You can’t stop praising . The staff are so polite and helpful and always at their humble service . Aman , Ruturaj, Ishan, Jerin, Athi, Swapna , Rishabh, Harsh. Take the name and they are all so helpful. We were nostalgic on leaving the hotel and their hospitality . The food was mouth watering . Every nook of the hotel was clean. Not a single speck of dust could be found . Udaivillas is my recommendation forever now"
+        },
+        {
+          "name": "Sonali",
+          "date": "November 02, 2022",
+          "rating": 5.0,
+          "comments": "You get yours money's worth while staying in the Oberoi Udaivilas considering the size of the properties, the attention to details and the nature included within and surrounding the property."
+        },
+        {
+          "name": "David",
+          "date": "January 10, 2022",
+          "rating": 5,
+          "comments": "This is one of the best hotels I've ever seen ! Fantastic ambience, beautiful garden, high quality interior and exterior design, the food is excellent, the night illumination creates a magic atmosphere, fascinating “jeux d’eau” everywhere And the room with semi-private swimming pool, with view on the lake and the Udaipur palaces is really fantastic"
+        }
+      ]
+    },
+    {
+      "id":6,
+      "name": "FAIRMONT JAIPUR HOTEL",
+      "neighborhood": "Udaipur",
+      "photograph": "https://i.postimg.cc/PrCLW5R1/fairmont.jpg",
+      "address": "2, Riico Kukas, Kukas, Jaipur, India",
+      "phone":9037367383,
+      "description":"In addition to the standard of ALLSAFE, all guests get free Wi-Fi in all rooms and free parking if arriving by car. Conveniently situated in the Kukas part of Jaipur, this property puts you close to attractions and interesting dining options. Don't leave before paying a visit to the famous Amber Fort.",
+      "amenities":{"first":"Airport transfer",
+      "sec":"Valet parking",
+      "thi":"swimming pools[Outside]",
+      "fou":"Free Wifi",
+      "fiv":"Fitness center",
+      "six":"Shuttle service"
+      },
+      "latlng": {
+        "lat": 40.713829,
+        "lng": -73.989667
+      },
+      "room_types":{
+        "r1":"Premier Rooms : 42 square meter",
+        "r2":"Premier Rooms with Balcony : 65 square meter",
+        "r3":"Deluxe Suites : 75 square meter",
+        "r4":"Deluxe Suites with Balcony : 92 square meter",
+        "r5":"Luxury Suites : 185 square meter"
+      },
+      "attractions": {
+        "a1": "Bagore ki Haveli Meseum : 1.0 Km",
+        "a2": "Sajjangarh Monsoon Palace : 1.1 Km",
+        "a3": "City Palace of Udaipur : 1.2 Km",
+        "a4": "Jagdish Temple : 1.3 Km",
+        "a5": "Jagmandir : 1.3 Km",
+        "a6": "Arsi Vikas : 390 m"
+      },
+      "reviews": [
+        {
+          "name": "Ashok",
+          "date": "October 26, 2022",
+          "rating": 4.6,
+          "comments": "The best....Udaivillas is an experience. You can’t stop praising . The staff are so polite and helpful and always at their humble service . Aman , Ruturaj, Ishan, Jerin, Athi, Swapna , Rishabh, Harsh. Take the name and they are all so helpful. We were nostalgic on leaving the hotel and their hospitality . The food was mouth watering . Every nook of the hotel was clean. Not a single speck of dust could be found . Udaivillas is my recommendation forever now"
+        },
+        {
+          "name": "Sonali",
+          "date": "November 02, 2022",
+          "rating": 5.0,
+          "comments": "You get yours money's worth while staying in the Oberoi Udaivilas considering the size of the properties, the attention to details and the nature included within and surrounding the property."
+        },
+        {
+          "name": "David",
+          "date": "January 10, 2022",
+          "rating": 5,
+          "comments": "This is one of the best hotels I've ever seen ! Fantastic ambience, beautiful garden, high quality interior and exterior design, the food is excellent, the night illumination creates a magic atmosphere, fascinating “jeux d’eau” everywhere And the room with semi-private swimming pool, with view on the lake and the Udaipur palaces is really fantastic"
+        }
+      ]
+    },
+    {
+      "id":7,
+      "name": "SHAHPURA HOUSE",
+      "neighborhood": "Udaipur",
+      "photograph": "https://i.postimg.cc/GhbRR7kt/sahapura.jpg",
+      "address": "D-257, Devi Marg, Bani Park, Jaipur",
+      "phone":9037367383,
+      "description":"The car parking and the Wi-Fi are always free, so you can stay in touch and come and go as you please. Strategically situated in Bani Park, allowing you access and proximity to local attractions and sights. ",
+      "amenities":{"first":"Airport transfer",
+      "sec":"Valet parking",
+      "thi":"swimming pools[Outside]",
+      "fou":"Free Wifi",
+      "fiv":"Fitness center",
+      "six":"Shuttle service"
+      },
+      "latlng": {
+        "lat": 40.713829,
+        "lng": -73.989667
+      },
+      "room_types":{
+        "r1":"Premier Rooms : 42 square meter",
+        "r2":"Premier Rooms with Balcony : 65 square meter",
+        "r3":"Deluxe Suites : 75 square meter",
+        "r4":"Deluxe Suites with Balcony : 92 square meter",
+        "r5":"Luxury Suites : 185 square meter"
+      },
+      "attractions": {
+        "a1": "Bagore ki Haveli Meseum : 1.0 Km",
+        "a2": "Sajjangarh Monsoon Palace : 1.1 Km",
+        "a3": "City Palace of Udaipur : 1.2 Km",
+        "a4": "Jagdish Temple : 1.3 Km",
+        "a5": "Jagmandir : 1.3 Km",
+        "a6": "Arsi Vikas : 390 m"
+      },
+      "reviews": [
+        {
+          "name": "Ashok",
+          "date": "October 26, 2022",
+          "rating": 4.6,
+          "comments": "The best....Udaivillas is an experience. You can’t stop praising . The staff are so polite and helpful and always at their humble service . Aman , Ruturaj, Ishan, Jerin, Athi, Swapna , Rishabh, Harsh. Take the name and they are all so helpful. We were nostalgic on leaving the hotel and their hospitality . The food was mouth watering . Every nook of the hotel was clean. Not a single speck of dust could be found . Udaivillas is my recommendation forever now"
+        },
+        {
+          "name": "Sonali",
+          "date": "November 02, 2022",
+          "rating": 5.0,
+          "comments": "You get yours money's worth while staying in the Oberoi Udaivilas considering the size of the properties, the attention to details and the nature included within and surrounding the property."
+        },
+        {
+          "name": "David",
+          "date": "January 10, 2022",
+          "rating": 5,
+          "comments": "This is one of the best hotels I've ever seen ! Fantastic ambience, beautiful garden, high quality interior and exterior design, the food is excellent, the night illumination creates a magic atmosphere, fascinating “jeux d’eau” everywhere And the room with semi-private swimming pool, with view on the lake and the Udaipur palaces is really fantastic"
+        }
+      ]
+    },
+    {
+      "id":8,
+      "name": "SAMODE HAVELI HOTEL",
+      "neighborhood": "Udaipur",
+      "photograph": "https://i.postimg.cc/2jcGj3WW/samode.jpg",
+      "address": "Gangapole, Rajasthan, Amer, Jaipur",
+      "phone":9037367383,
+      "description":"The car parking and the Wi-Fi are always free, so you can stay in touch and come and go as you please. Conveniently situated in the Amer part of Jaipur, this property puts you close to attractions and interesting dining options. Don't leave before paying a visit to the famous Amber Fort. Rated with 4 stars, this high-quality property provides guests with access to massage, restaurant and hot tub on-site.",
+      "amenities":{"first":"Airport transfer",
+      "sec":"Valet parking",
+      "thi":"swimming pools[Outside]",
+      "fou":"Free Wifi",
+      "fiv":"Fitness center",
+      "six":"Shuttle service"
+      },
+      "latlng": {
+        "lat": 40.713829,
+        "lng": -73.989667
+      },
+      "room_types":{
+        "r1":"Premier Rooms : 42 square meter",
+        "r2":"Premier Rooms with Balcony : 65 square meter",
+        "r3":"Deluxe Suites : 75 square meter",
+        "r4":"Deluxe Suites with Balcony : 92 square meter",
+        "r5":"Luxury Suites : 185 square meter"
+      },
+      "attractions": {
+        "a1": "Bagore ki Haveli Meseum : 1.0 Km",
+        "a2": "Sajjangarh Monsoon Palace : 1.1 Km",
+        "a3": "City Palace of Udaipur : 1.2 Km",
+        "a4": "Jagdish Temple : 1.3 Km",
+        "a5": "Jagmandir : 1.3 Km",
+        "a6": "Arsi Vikas : 390 m"
+      },
+      "reviews": [
+        {
+          "name": "Ashok",
+          "date": "October 26, 2022",
+          "rating": 4.6,
+          "comments": "The best....Udaivillas is an experience. You can't stop praising . The staff are so polite and helpful and always at their humble service . Aman , Ruturaj, Ishan, Jerin, Athi, Swapna , Rishabh, Harsh. Take the name and they are all so helpful. We were nostalgic on leaving the hotel and their hospitality . The food was mouth watering . Every nook of the hotel was clean. Not a single speck of dust could be found . Udaivillas is my recommendation forever now"
+        },
+        {
+          "name": "Sonali",
+          "date": "November 02, 2022",
+          "rating": 5.0,
+          "comments": "You get yours money's worth while staying in the Oberoi Udaivilas considering the size of the properties, the attention to details and the nature included within and surrounding the property."
+        },
+        {
+          "name": "David",
+          "date": "January 10, 2022",
+          "rating": 5,
+          "comments": "This is one of the best hotels I've ever seen ! Fantastic ambience, beautiful garden, high quality interior and exterior design, the food is excellent, the night illumination creates a magic atmosphere, fascinating “jeux d’eau” everywhere And the room with semi-private swimming pool, with view on the lake and the Udaipur palaces is really fantastic"
+        }
+      ]
+    },
+    {
+      "id":9,
+      "name": "UDAI KOTHI",
+      "neighborhood": "Udaipur",
+      "photograph": "https://i.postimg.cc/8kZ4k43w/udai.jpg",
+      "address": "O/S Chand Pole, Hanuman Ghat Marg, On Pichola Lake, Lake City, Udaipur",
+      "phone":9037367383,
+      "description":"Get your trip off to a great start with a stay at this property, which offers free Wi-Fi in all rooms. Strategically situated in Lake City, allowing you access and proximity to local attractions and sights. Don't leave before paying a visit to the famous City Palace of Udaipur.",
+      "amenities":{"first":"Airport transfer",
+      "sec":"Valet parking",
+      "thi":"swimming pools[Outside]",
+      "fou":"Free Wifi",
+      "fiv":"Fitness center",
+      "six":"Shuttle service"
+      },
+      "latlng": {
+        "lat": 40.713829,
+        "lng": -73.989667
+      },
+      "room_types":{
+        "r1":"Premier Rooms : 42 square meter",
+        "r2":"Premier Rooms with Balcony : 65 square meter",
+        "r3":"Deluxe Suites : 75 square meter",
+        "r4":"Deluxe Suites with Balcony : 92 square meter",
+        "r5":"Luxury Suites : 185 square meter"
+      },
+      "attractions": {
+        "a1": "Bagore ki Haveli Meseum : 1.0 Km",
+        "a2": "Sajjangarh Monsoon Palace : 1.1 Km",
+        "a3": "City Palace of Udaipur : 1.2 Km",
+        "a4": "Jagdish Temple : 1.3 Km",
+        "a5": "Jagmandir : 1.3 Km",
+        "a6": "Arsi Vikas : 390 m"
+      },
+      "reviews": [
+        {
+          "name": "Ashok",
+          "date": "October 26, 2022",
+          "rating": 4.6,
+          "comments": "The best....Udaivillas is an experience. You can’t stop praising . The staff are so polite and helpful and always at their humble service . Aman , Ruturaj, Ishan, Jerin, Athi, Swapna , Rishabh, Harsh. Take the name and they are all so helpful. We were nostalgic on leaving the hotel and their hospitality . The food was mouth watering . Every nook of the hotel was clean. Not a single speck of dust could be found . Udaivillas is my recommendation forever now"
+        },
+        {
+          "name": "Sonali",
+          "date": "November 02, 2022",
+          "rating": 5.0,
+          "comments": "You get yours money's worth while staying in the Oberoi Udaivilas considering the size of the properties, the attention to details and the nature included within and surrounding the property."
+        },
+        {
+          "name": "David",
+          "date": "January 10, 2022",
+          "rating": 5,
+          "comments": "This is one of the best hotels I've ever seen ! Fantastic ambience, beautiful garden, high quality interior and exterior design, the food is excellent, the night illumination creates a magic atmosphere, fascinating “jeux d’eau” everywhere And the room with semi-private swimming pool, with view on the lake and the Udaipur palaces is really fantastic"
+        }
+      ]
+    },
+    {
+      "id":10,
+      "name": "REGENTA CENTRAL MEWARGARH",
+      "neighborhood": "Udaipur",
+      "photograph": "https://i.postimg.cc/JnfktyNr/regenta.jpg",
+      "address": "Sajjan Garh Road, Near Biological Park, Kodiyat, Udaipur",
+      "phone":9037367383,
+      "description":"The car parking and the Wi-Fi are always free, so you can stay in touch and come and go as you please. Conveniently situated in the Kodiyat part of Udaipur, this property puts you close to attractions and interesting dining options. Don't leave before paying a visit to the famous City Palace of Udaipur.",
+      "amenities":{"first":"Airport transfer",
+      "sec":"Valet parking",
+      "thi":"swimming pools[Outside]",
+      "fou":"Free Wifi",
+      "fiv":"Fitness center",
+      "six":"Shuttle service"
+      },
+      "latlng": {
+        "lat": 40.713829,
+        "lng": -73.989667
+      },
+      "room_types":{
+        "r1":"Premier Rooms : 42 square meter",
+        "r2":"Premier Rooms with Balcony : 65 square meter",
+        "r3":"Deluxe Suites : 75 square meter",
+        "r4":"Deluxe Suites with Balcony : 92 square meter",
+        "r5":"Luxury Suites : 185 square meter"
+      },
+      "attractions": {
+        "a1": "Bagore ki Haveli Meseum : 1.0 Km",
+        "a2": "Sajjangarh Monsoon Palace : 1.1 Km",
+        "a3": "City Palace of Udaipur : 1.2 Km",
+        "a4": "Jagdish Temple : 1.3 Km",
+        "a5": "Jagmandir : 1.3 Km",
+        "a6": "Arsi Vikas : 390 m"
+      },
+      "reviews": [
+        {
+          "name": "Ashok",
+          "date": "October 26, 2022",
+          "rating": 4.6,
+          "comments": "The best....Udaivillas is an experience. You can’t stop praising . The staff are so polite and helpful and always at their humble service . Aman , Ruturaj, Ishan, Jerin, Athi, Swapna , Rishabh, Harsh. Take the name and they are all so helpful. We were nostalgic on leaving the hotel and their hospitality . The food was mouth watering . Every nook of the hotel was clean. Not a single speck of dust could be found . Udaivillas is my recommendation forever now"
+        },
+        {
+          "name": "Sonali",
+          "date": "November 02, 2022",
+          "rating": 5.0,
+          "comments": "You get yours money's worth while staying in the Oberoi Udaivilas considering the size of the properties, the attention to details and the nature included within and surrounding the property."
+        },
+        {
+          "name": "David",
+          "date": "January 10, 2022",
+          "rating": 5,
+          "comments": "This is one of the best hotels I've ever seen ! Fantastic ambience, beautiful garden, high quality interior and exterior design, the food is excellent, the night illumination creates a magic atmosphere, fascinating “jeux d’eau” everywhere And the room with semi-private swimming pool, with view on the lake and the Udaipur palaces is really fantastic"
+        }
+      ]
+    }
+  ]
+}
